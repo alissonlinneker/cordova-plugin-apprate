@@ -264,6 +264,14 @@ Locales.addLocale new Locale
   rateButtonLabel: "Avaliar Agora"
 
 Locales.addLocale new Locale
+  language: 'pt-BR'
+  title: "Avaliar %@"
+  message: "Se você gostou de usar o %@, se importaria em avaliá-lo? Não demorará mais que um minuto. Obrigado pelo seu apoio!"
+  cancelButtonLabel: "Não, Obrigado"
+  laterButtonLabel: "Lembrar mais tarde"
+  rateButtonLabel: "Avaliar Agora"
+
+Locales.addLocale new Locale
   language: 'ru'
   title: "Оцените %@"
   message: "Если вам нравится пользоваться %@, не будете ли вы возражать против того, чтобы уделить минуту и оценить его?\nСпасибо вам за поддержку!"
