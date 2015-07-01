@@ -152,7 +152,7 @@ All %@ patterns in customLocale object will be automatically replaced to your ap
 	AppRate.promptForRating(true);
 		
 ## Already included translations ##
-ar, bn, ca, cs, da, de, de-AT, el, en, es, fa, fr, he, hi, id, il, ja, ko, nl, no, pa, pl, pt, ru, sk, sl, sv, th, tr, uk, ur, ur-IN, ur-PK, vi, zh-TW, zh-Hans, zh-Hant
+ar, bn, ca, cs, da, de, de-AT, el, en, es, fa, fr, he, hi, id, il, ja, ko, nl, no, pa, pl, pt, pt-BR, ru, sk, sl, sv, th, tr, uk, ur, ur-IN, ur-PK, vi, zh-TW, zh-Hans, zh-Hant
 
 #### Access to locales ####
 
